@@ -1,4 +1,4 @@
-1. install the dependencies
+1. install the dependencies<br>
    npm install
 
 2. Run the app
