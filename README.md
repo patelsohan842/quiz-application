@@ -3,6 +3,14 @@
 
 2. Run the app
 <br>
-backend:- npm start
+backend:-
 <br>
-frontend:- npm run dev
+cd backend
+<br>
+ npm start
+<br>
+frontend:-
+<br>
+cd frontend
+<br>
+ npm run dev
